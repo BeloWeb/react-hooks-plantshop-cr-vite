@@ -1,46 +1,136 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "0aa4",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "e2fe",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "d263",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "ebc3",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "76d6",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "d777",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "c1d2",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "9aba",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "0675",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "64d7",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "97b6",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "d2fe",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "d7bb",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "1a74",
+      "name": "Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH",
+      "price": 12
+    },
+    {
+      "id": "6dae",
+      "name": "Angiosperme",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpF8XEzTQsl8yutPT-4b7mBgKseeGmf5DsVWG5ChfZS2FBJYG7cVRohY&usqp=CAE&s",
+      "price": "30"
     }
   ]
 }
